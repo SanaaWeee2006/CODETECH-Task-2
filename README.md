@@ -1,4 +1,9 @@
 - **Name**: SANA PERWEEN
+- **Company**: CODETECH IT SOLUTIONS
+- **ID**: CT08DS263
+- **Domain**: Python Programming
+- **Month**: December 2024 to January 2025
+- **Mentor**: Neela Santosh Kumar
 
 ### **Overview of the Inventory Management System Project**
 
